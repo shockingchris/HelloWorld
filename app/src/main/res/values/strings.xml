@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="edit_message">Book</string>
+    <string name="edit_chapter">Chapter</string>
+    <string name="edit_verse">Verse</string>
+    <string name="button_send">Share</string>
+    <string name="title_activity_display_message">My Message</string>
+</resources>
